@@ -31,3 +31,16 @@ Example networking workflow:
 ## Next Steps
 
 This repository will continue with practical Git workflows including commits, branches, merges, conflict resolution, GitHub authentication, and remote repositories.
+
+## Git Workflow
+
+Changes are developed on feature branches before being merged into the main branch.
+
+Typical workflow:
+
+1. Create a feature branch
+2. Make and test changes
+3. Stage the changes
+4. Commit the changes
+5. Review the branch
+6. Merge the feature branch into main
