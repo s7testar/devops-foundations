@@ -44,3 +44,4 @@ Typical workflow:
 4. Commit the changes
 5. Review the branch
 6. Merge the feature branch into main
+
