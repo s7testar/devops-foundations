@@ -16,7 +16,9 @@ Hands-on DevOps foundation work covering Linux administration, troubleshooting, 
 
 ## Troubleshooting Approach
 
+
 Troubleshooting follows a dependency-first workflow: verify the lowest-level layer, identify the failure, apply the fix, and confirm recovery.
+
 
 Example networking workflow:
 
